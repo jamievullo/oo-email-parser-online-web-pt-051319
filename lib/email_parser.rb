@@ -1,6 +1,6 @@
 class EmailParser
   
-  def EmailParser
+  def parser(email)
   
   end
   
