@@ -7,7 +7,7 @@ class EmailParser
   end
   
   def parse 
-    email
+    email.split(",").uniq
   end
   
 end
